@@ -1,0 +1,27 @@
+{
+    "curly"         : true,
+    "eqeqeq"        : false,
+    "latedef"       : false,
+    "undef"         : true,
+    "unused"        : false,
+    "laxcomma"      : true,
+    "laxbreak"      : true,
+    "smarttabs"     : true,
+    "browser"       : true,
+    "indent"        : 4,
+    "maxlen"        : 120,
+    "predef"        : [
+        "window",
+        "document",
+        "console",
+        "MOVIDEO",
+        "ActiveXObject",
+        "angular",
+        "module",
+        "describe",
+        "beforeEach",
+        "it",
+        "chai",
+        "inject"
+    ]
+}

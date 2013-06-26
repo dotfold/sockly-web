@@ -1,0 +1,9 @@
+
+/* Set variables for Bootstrap */
+$sansFontFamily: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$monoFontFamily: Monaco, Menlo, Consolas, "DejaVu Sans Mono", "Courier New", monospace !default;
+$linkColor:      #C8371E;
+$linkColorHover: #EB640A;
+
+@import "compass_twitter_bootstrap";
+@import "compass/css3/user-interface";

@@ -1,0 +1,13 @@
+# Dependency Directories
+node_modules
+src/vendor
+
+# Build Items
+bin
+build
+.tmp
+.sass-cache
+
+# Operating System Junk
+.DS_Store
+Thumbs.db
